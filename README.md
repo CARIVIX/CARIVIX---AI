@@ -1,2 +1,2 @@
 # CARIVIX---AI
-This Repository defines the complete folder and file structure for the CARIVIX-AI-docs repository.
+This Repository defines the complete structure for the CARIVIX-AI.
